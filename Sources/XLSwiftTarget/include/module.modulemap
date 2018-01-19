@@ -1,0 +1,16 @@
+framework module PackaModule {
+
+    export *
+
+    header "XLASLlogger.h"
+    header "XLCallbackLogger.h"
+    header "XLFacility.h"
+    header "XLFacilityCMacros.h"
+    header "XLFacilityMacros.h"
+    header "XLFileLogger.h"
+    header "XLFunctions.h"
+    header "XLLogger.h"
+    header "XLLogRecord.h"
+    header "XLStandardLogger.h"
+
+}
